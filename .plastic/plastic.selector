@@ -1,0 +1,4 @@
+repository "SIH_test_1@Syber5713@cloud"
+  path "/"
+    br "/main"
+    co "/main"
